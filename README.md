@@ -1,3 +1,6 @@
+# W40K
+Warhammer army builder
+
 ## w-40-k
 > This project is generated with [generator-angular2-typescript](https://github.com/shibbir/generator-angular2-typescript) version 0.10.6.
 
